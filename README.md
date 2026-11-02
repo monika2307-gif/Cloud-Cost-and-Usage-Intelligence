@@ -77,4 +77,62 @@ The data model connects dimension tables with fact tables to enable efficient fi
 ## ⚙️ Data Preparation & Transformation
 
 Power Query was used for:
-- Data
+-Data cleaning and preprocessing.
+
+Handling missing and inconsistent values.
+
+Data type correction.
+
+Date formatting and transformation.
+
+Preparing structured datasets for analysis.
+
+📐 DAX & Measures
+
+DAX was used to create calculated measures for:
+
+Total Cloud Cost
+
+Total Budget
+
+Budget Utilization %
+
+Cost Savings
+
+Monthly Cost Trends
+
+Account-wise Spending
+
+Anomaly Count
+
+📈 Key Business Insights
+
+The dashboards help users:
+
+Understand overall cloud expenditure.
+
+Monitor budget performance.
+
+Identify high-cost accounts and services.
+
+Recognize unusual spending patterns.
+
+Explore potential cost optimization opportunities.
+
+Make informed cloud spending decisions.
+
+🚀 Future Enhancements
+
+Integrate real-time cloud billing data.
+
+Implement advanced anomaly detection using Machine Learning.
+
+Add predictive cloud cost forecasting.
+
+Develop automated cost optimization recommendations.
+
+👩‍💻 Author
+
+Monika Neel
+
+Data Science & Analytics | Power BI | Python | SQL
